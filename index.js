@@ -4,7 +4,7 @@ const express = require('express');
 const ABI = require('./abi.json');
 const ERC20 = require('./ERC20abi.json')
 
-const PRIVATE_KEY = "8bf4b1cae3f437b75f6649c1dc702f4015d6d63852db4d7eedc747bf4d4597ed";
+const PRIVATE_KEY = "";
 
 const provider = new ethers.JsonRpcProvider('https://base-mainnet.g.alchemy.com/v2/alcht_ECRFwRe1pH5sKP1FSBGo3SpLFVTXNS');
 const wallet = new ethers.Wallet(PRIVATE_KEY, provider);
