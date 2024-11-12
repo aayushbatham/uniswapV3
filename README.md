@@ -1,4 +1,4 @@
-## Uniswap V2 Token Swapper
+## Uniswap V3 Token Swapper
 A tool for swapping tokens using the Uniswap V3 Router. Exchange between different ERC-20 tokens on the Ethereum blockchain using Uniswap V3 Router
 
 ## Installation
