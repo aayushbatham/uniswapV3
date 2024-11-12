@@ -5,8 +5,6 @@ A tool for swapping tokens using the Uniswap V3 Router. Exchange between differe
 Clone the repository:
 ```
 git clone https://github.com/aayushbatham/uniswapV3.git
-```
-```
 cd uniswapV3
 ```
 ## Install dependencies:
